@@ -12,4 +12,12 @@ Uma escola de música está realizando audições para novos alunos! Para organi
 
 -Adultos: para alunos maiores de 18 anos. 
 
-# Atividade 02: Aplaudindo a banda.
+# Atividade 02: Aplaudindo a Banda
+Objetivo: Revisar o laço de repetição for em JavaScript
+Contexto: Uma banda de música está se apresentando e a plateia está super animada!
+Você precisa criar um programa que simule os aplausos da plateia, exibindo no console uma sequência de palmas "👏" de acordo com a intensidade escolhida pelo usuário.
+
+## Tarefa:
+
+Armazene essa informação em uma variável chamada intensidade.
+Gerar os aplausos: Utilize um laço de repetição for para exibir no console a quantidade de palmas "👏" correspondente a intensidade escolhida.
