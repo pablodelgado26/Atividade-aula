@@ -21,3 +21,7 @@ Você precisa criar um programa que simule os aplausos da plateia, exibindo no c
 
 Armazene essa informação em uma variável chamada intensidade.
 Gerar os aplausos: Utilize um laço de repetição for para exibir no console a quantidade de palmas "👏" correspondente a intensidade escolhida.
+
+# Desafio extra
+
+## A cada 5 palma adicionar um emoji "🥳"
