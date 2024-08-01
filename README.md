@@ -24,4 +24,4 @@ Gerar os aplausos: Utilize um laço de repetição for para exibir no console a 
 
 # Desafio extra
 
-## A cada 5 palma adicionar um emoji "🥳"
+#### A cada 5 palma adicionar um emoji "🥳"
